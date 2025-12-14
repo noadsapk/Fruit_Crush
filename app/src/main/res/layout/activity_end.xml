@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Game Over"
+        android:textSize="40sp"
+        android:textColor="@color/primary_dark"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"/>
+
+    <TextView 
+        android:id="@+id/scoreText" 
+        android:textSize="30sp"
+        android:textColor="@color/on_secondary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView 
+        android:id="@+id/highScoreText" 
+        android:textSize="24sp"
+        android:textColor="@color/primary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView 
+        android:id="@+id/timeText" 
+        android:textSize="24sp"
+        android:textColor="@color/on_secondary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"/>
+
+    <Button 
+        android:id="@+id/restartBtn" 
+        android:text="Restart Game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20sp"
+        android:backgroundTint="@color/primary"
+        android:textColor="@color/on_primary"/>
+</LinearLayout>

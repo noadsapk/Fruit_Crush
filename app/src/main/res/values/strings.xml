@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fruit Crush</string>
+    <string name="about_title">About Fruit Crush</string>
+    <string name="about_message">Fruit Crush\nVersion 1.0\n\nEnjoy this exciting fruit matching game! Connect similar fruits to blast them away and score high.\n\nDeveloped by: Tushar and Suraj\nContact: noadsapk@gmail.com\n\n© 2025 All Rights Reserved.</string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="privacy_message"><b>Privacy Policy for Fruit Crush</b>\n\n
+Effective Date: October 26, 2023\n\n
+<b>1. Information Collection</b>\n
+We do not collect any personal information from our users. This app operates locally on your device.\n\n
+<b>2. Usage of Information</b>\n
+Since we do not collect personal data, we do not use, sell, or share any user data.\n\n
+<b>3. Third-Party Services</b>\n
+This app may use third-party services (e.g., AdMob, Google Play Services) that may collect information used to identify you. Please refer to their respective privacy policies.\n\n
+<b>4. Children\'s Privacy</b>\n
+We do not knowingly collect personally identifiable information from children under 13.\n\n
+<b>5. Changes to This Policy</b>\n
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.\n\n
+<b>6. Contact Us</b>\n
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at noadsapk@gmail.com.
+</string>
+</resources>
